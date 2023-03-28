@@ -2,7 +2,8 @@ import React from 'react';
 
 function Car({shopping, handleDelete}){
 
-    console.log(shopping)
+    
+
     let shoppingList = shopping.map(el=>{
         if(el.isOrdered === false ){
 
@@ -15,6 +16,7 @@ function Car({shopping, handleDelete}){
 
 
     return(
+        
         <div>
         <h4>Your Shopping Car</h4>
         {shoppingList}
