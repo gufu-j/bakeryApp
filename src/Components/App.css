@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #fbe3e3;
+}
+
+.cakes {
+  list-style: none;
+  
+}
+
+.cake{
+  align-content: center;
+  border: 1px solid #addd;
+  border-radius: 4px;
+  padding:5px;
+  width: 400px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img{
+  border-radius: 8px;
+  width: 400px;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  font-family: brush script mt, cursive;
+  letter-spacing: .1rem;
+  text-shadow: -1px 0 black, 0 10px black, 1px 0 black, 0 -1px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
