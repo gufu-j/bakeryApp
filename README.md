@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# Search, Add and Order a Cake App - BakeryApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This BakeryApp is a powerful app that Allows you search for cakes from Santa Teresita's Bakery, add or place an order of a cake.
 
-## Available Scripts
+![image](https://user-images.githubusercontent.com/112182396/229373603-c4527646-037a-4663-a8b3-5a249d8e8799.png)
+
+
+
+## How to use this app? 
+
+This app is divided in three routes, Home, Cakes and Cart.
 
 In the project directory, you can run:
 
