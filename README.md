@@ -16,16 +16,6 @@ Once the user decides what to order, the Cart will make a list of all cakes that
 ![image](https://user-images.githubusercontent.com/112182396/229373986-7b252977-68b6-478f-ba7f-8bee724d44ba.png)
 
 
-To build this app, I first created a db.json file containing some data I used to start displaying some of it to the user. I did not use a Public API meaning that. That being said, the basic data structure for my dg.json was the following: 
+To build this app, I first created a db.json file containing some data I used to start displaying some of it to the user. I did not use a Public API meaning that. This app was built with ReactJs. 
 
-{
-  "breads": [
-    {
-      "id": 1,
-      "name": "",
-      "img": "",
-      "description": "",
-      "isOrdered": false
-    }
-  ]  
-}
+Hope this was helpful, and have a great day! 
