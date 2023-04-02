@@ -4,12 +4,15 @@ This BakeryApp is a powerful app that Allows you search for cakes from Santa Ter
 
 ![image](https://user-images.githubusercontent.com/112182396/229373704-01bd8aef-f9d2-4686-b5c8-990874292af7.png)
 
-
-
-
 ## How to use this app? 
 
 This app is divided in three routes, Home, Cakes and Cart.
+Homes displays the name of the bakery, cakes lets the user to search a cake and cart keepsa list the cakes the client purchases.
+
+![image](https://user-images.githubusercontent.com/112182396/229373950-c2c52f12-7905-4700-a010-e2d883f94d98.png)
+![image](https://user-images.githubusercontent.com/112182396/229373986-7b252977-68b6-478f-ba7f-8bee724d44ba.png)
+
+
 
 In the project directory, you can run:
 
