@@ -6,8 +6,7 @@ function CakeCards({cake, handleUpdatedCake}){
     // We gonna do our patch method here
 
     function handleClickOrder(){
-        console.log(cake)
-
+       
         fetch(`http://localhost:3000/breads/${cake.id}`,{
             method: "PATCH",
             headers: {
@@ -18,7 +17,7 @@ function CakeCards({cake, handleUpdatedCake}){
             }),
         })
         .then((response)=> response.json())
-        .then((updatedItem)=> handleUpdatedCake(updatedItem))
+        .then((updatedItem)=>{ handleUpdatedCake(updatedItem) })
     }
 
 
@@ -29,10 +28,11 @@ function CakeCards({cake, handleUpdatedCake}){
             <h3>Description</h3>
             <p>{cake.description}</p>
             <button onClick={handleClickOrder}>
-                {cake.isOrdered ? "Ordered": "Place Order" }
+                {cake.isOrdered ? "Thank you! 🥳": "Place Order🥰" }
             </button>
         </div>
     )
 }
 
 export default CakeCards
+
