@@ -19,3 +19,5 @@ Once the user decides what to order, the Cart will make a list of all cakes that
 To build this app, I first created a db.json file containing some data I used to start displaying some of it to the user. I did not use a Public API. This app was built with ReactJs. 
 
 Hope this was helpful, and have a great day! 
+
+ (If interested about how to do the POST method for this project, I have included my blog having this information, good luck! https://medium.com/@guatemaladiegojose/post-method-and-controlled-form-6f6567c77466 )
