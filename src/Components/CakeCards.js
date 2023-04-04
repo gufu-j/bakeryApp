@@ -28,7 +28,7 @@ function CakeCards({cake, handleUpdatedCake}){
             <h3>Description</h3>
             <p>{cake.description}</p>
             <button onClick={handleClickOrder}>
-                {cake.isOrdered ? "Thank you! 🥳": "Place Order🥰" }
+                {cake.isOrdered ? "Thank you! 🥳":  "Place Order🥰" }
             </button>
         </div>
     )
