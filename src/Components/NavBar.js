@@ -38,7 +38,7 @@ function NavBar(){
                 Cakes🎂
             </NavLink>
             <NavLink
-            to="/car"
+            to="/cart"
             exact
             style = {linkStyles}
             activeStyle={{
